@@ -13,4 +13,4 @@
 
 ### 🚀 Track recent learning
 
-Day1 - Views & URL's
+[Day1 - Views & URL's](https://github.com/ruofanwei/learn_django/tree/Day1_Views_and_URL)
