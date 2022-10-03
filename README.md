@@ -21,7 +21,7 @@
 ### 🚀 Track recent learning
 
 <details>
-<summary>  [Day1 - Views & URL's](https://github.com/ruofanwei/learn_django/tree/Day1_Views_and_URL) </summary>
+<summary>  Day1 - Views & URL's </summary>
 
 - By default, the runserver command starts the development server on the internal IP at port 8000
 - The development server automatically reloads Python code for each request as needed. You don’t need to restart the server for code changes to take effect.
